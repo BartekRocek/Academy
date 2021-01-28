@@ -84,9 +84,6 @@ public class Tickets {
                 seatNumberBooked);
     }
 
-//    public static void storeSeatsBooked(int seatNumberBooked, int rowNumberBooked, int checkSum) {
-//
-//    }
 
     //A method to show the seats 24/01/2021*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
     public static void showTheSeats(int numberOfRows,
